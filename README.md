@@ -69,7 +69,7 @@ C:\Users\AkitotheExiled\Desktop\RSSReply-master>
 
 * Installing requirements.txt so our script can be ran.  In the command prompt, type **python pip install requirements.txt**.  Press enter and wait for the command to finish.  
 ```
-C:\Users\AkitotheExiled\Desktop\RSSReply-master>python pip install requirements.txt
+C:\Users\AkitotheExiled\Desktop\RSSReply-master>python -m pip install -r requirements.txt
 ```
 - - - -
 ## Setting your config
